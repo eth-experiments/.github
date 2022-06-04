@@ -1,5 +1,5 @@
-# Experiments
-🧪 A place to try fun, interesting and exciting Ethereum experiments.
+# 🧪 Experiments
+A place to try fun, interesting and exciting Ethereum experiments.
 
 ## EIP-4430 Smart Contract Prototype
 
@@ -10,3 +10,8 @@ As a User of Web3 I want my wallet to show me detailed transaction information w
 
 ### Solution
 Transactions signing screens with injected side-effect descriptions and input metadata.
+
+
+| Example Screen 1   | Example Screen 2       |
+| ------------- | ------------- |
+| ![dashboard _ delegate-authority](https://user-images.githubusercontent.com/3408362/172020593-09b59683-54aa-4bcb-b48d-238131630c25.png)  |  ![dashboard _ publish-documentation](https://user-images.githubusercontent.com/3408362/172020663-cab0850c-f59d-4349-beb6-882b48da4410.png) |
