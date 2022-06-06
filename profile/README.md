@@ -12,7 +12,6 @@ As a User of Web3 I want my wallet to show me detailed transaction information w
 Transactions signing screens with injected side-effect descriptions and input metadata.
 
 - **Smart Contracts:** https://github.com/eth-experiments/eip-4430-sol
-- **Design/Mockups:** https://github.com/eth-experiments/eip-4430-designs
 
 | Example Screen 1   | Example Screen 2       |
 | ------------- | ------------- |
